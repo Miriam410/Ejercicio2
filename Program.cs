@@ -10,6 +10,7 @@ namespace Ejercicio2
     {
         static void Main(string[] args)
         {
+        // 2. Solicite el ingreso de un texto cualquiera y lo presente nuevamente al usuario.
             string ingreso = "";
             Console.WriteLine("Por favor, ingrese un texto cualquiera.");
             ingreso = Console.ReadLine();
